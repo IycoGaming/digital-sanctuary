@@ -1,0 +1,11 @@
+{
+  "appId": "com.digitalsanctuary.app",
+  "appName": "Digital Sanctuary",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#07090d"
+  }
+}
